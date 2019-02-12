@@ -1,0 +1,15 @@
+{
+  "name": "Servidor",
+  "version": "1.0.0",
+  "description": "Server for vue-notes-online",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.18.9",
+    "server": "^1.0.18"
+  }
+}
